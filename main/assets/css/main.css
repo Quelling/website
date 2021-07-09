@@ -176,7 +176,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		font-weight: 400;
 		line-height: 1.25;
 		margin: 0 0 0.5em 0;
-		color: #FFF;
+		color: #fff;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -834,7 +834,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		padding: 3em 2.25em 1.75em 2.25em ;
 	
 		/* border: 1px solid red; */
-		background-color: #3A3C47;
+		background-color: #1d1c2b;
 		color: white;
 }
 
@@ -938,7 +938,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 /* Thumbnails */
 
 	#thumbnails {
-		background-color: rgba(58, 60, 71, 0.81);
+		background-color: #32304B;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -1009,6 +1009,8 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 			}
 
 		}
+
+
 
 /* Viewer */
 
